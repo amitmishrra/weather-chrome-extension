@@ -1,0 +1,10 @@
+{
+    "name" : "Weather Extension",
+    "description": "Read Current Weather",
+    "version" : "0.0.1",
+    "manifest_version":3,
+    "action" : {
+        "default_popup" : "popUp.html",
+        "default_icon" : "favIcons.png"
+    }
+}
